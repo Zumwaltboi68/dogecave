@@ -1,7 +1,15 @@
-# PROJECT HAS BEEN MOVED BACK TO GITLAB.
+# Welcome to Snorlax's Cave!
+Snorlax's Cave is a UV built proxy and game site **(v1.0 beta)**
+## We offer:
+- Many Unblocked Apps & Games
+- Built in web proxy
+- Free emulator
+- Many customizable features
 
-# snorlaxscave
-game site v1
-https://snorlaxscavev1.sytes.net/
-# devs:
-snorlax, derpman, mecharis-420
+## Contributors:
+- Snorlax (Owner)
+- Derpman
+- mecharis-420
+
+### Join our community!
+https://discord.gg/7hmAtV7q
